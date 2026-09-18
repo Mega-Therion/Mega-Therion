@@ -30,6 +30,7 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 
 #### 📐 [4Leibniz](https://github.com/Mega-Therion/4Leibniz)
 > **Formal Relational Information Geometry & Automated Verification in Lean 4**
+- **Live Deployment**: [four-leibniz.vercel.app](https://four-leibniz.vercel.app)
 - **Hugging Face Dataset**: [ChyRho/4leibniz](https://huggingface.co/datasets/ChyRho/4leibniz)
 - **Living Archive Web**: [4leibniz-web](https://github.com/Mega-Therion/4leibniz-web) · [leibniz-oracle](https://github.com/Mega-Therion/leibniz-oracle)
 - **Highlights**:
@@ -39,8 +40,15 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 
 #### 🔤 [RYTT Sovereign Semiotics](https://github.com/Mega-Therion/RYTT-Sovereign-Semiotics)
 > **Lossless, Reversible Grammar Mapping Language to Radial Glyph Chords**
+- **Live Deployment**: [rytt-sovereign-semiotics.vercel.app](https://rytt-sovereign-semiotics.vercel.app)
 - **Hugging Face Mirror**: [ChyRho/rytt-sovereign-semiotics-benchmarks](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks)
 - **Highlights**: Lean-verified round-trip guarantee and dual-plane token transform.
+
+#### 🏛️ [chyren-selin](https://github.com/Mega-Therion/chyren-selin)
+> **ARCHON Governance Kernel & Sovereign Decentralized Architecture**
+- **Live Deployment**: [chyren-selin-chyrho.vercel.app](https://chyren-selin-chyrho.vercel.app)
+- **Hugging Face Mirror**: [ChyRho/chyren-selin](https://huggingface.co/datasets/ChyRho/chyren-selin)
+- **Highlights**: Sovereign policy kernel, ARCHON governance modules, and constitutional enforcement.
 
 #### 🛡️ [MVPC-X](https://github.com/Mega-Therion/MVPC-X)
 > **Sovereign Claim-Verification Infrastructure**
@@ -55,6 +63,7 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 | [**ChyRho/res-nova**](https://huggingface.co/datasets/ChyRho/res-nova) | Dataset | SPARC 175-galaxy benchmark, rotation curves, $a_0$ measurement, and Lean 4 verification certificates. |
 | [**ChyRho/4leibniz**](https://huggingface.co/datasets/ChyRho/4leibniz) | Dataset | 4Leibniz relational geometry formalizations, benchmarks, and corpus verification fixtures. |
 | [**ChyRho/rytt-sovereign-semiotics-benchmarks**](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks) | Dataset | Lean-verified round-trip semiotics conformance vectors and vocabulary spec. |
+| [**ChyRho/chyren-selin**](https://huggingface.co/datasets/ChyRho/chyren-selin) | Dataset | ARCHON governance specifications and constitutional kernel files. |
 | [**ChyRho/nomic-embed-text-v1.5-q8-gguf**](https://huggingface.co/ChyRho/nomic-embed-text-v1.5-q8-gguf) | Model | High-precision quantized embedding model for semantic retrieval. |
 
 ---
