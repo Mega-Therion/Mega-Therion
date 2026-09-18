@@ -6,6 +6,8 @@
   <a href="https://resnova-hub-f4ucvy3e.manus.space"><img src="https://img.shields.io/badge/Research%20Atlas-resnova--hub-0070f3?style=flat-square&logo=safari&logoColor=white" alt="Res Nova Atlas"></a>
   <a href="https://www.linkedin.com/in/r-w-yett-152085293/"><img src="https://img.shields.io/badge/LinkedIn-R.W._Yett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/_chyrho_"><img src="https://img.shields.io/badge/X-@__ChyRho__-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/_chyrho_/"><img src="https://img.shields.io/badge/Instagram-@__chyrho__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.threads.net/@_chyrho_"><img src="https://img.shields.io/badge/Threads-@__chyrho__-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
   <a href="https://doi.org/10.5281/zenodo.21969121"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21969121-024dad?style=flat-square&logo=doi&logoColor=white" alt="Zenodo DOI"></a>
 </p>
 
@@ -64,4 +66,6 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 - **LinkedIn**: [r-w-yett-152085293](https://www.linkedin.com/in/r-w-yett-152085293/)
 - **Hugging Face**: [ChyRho](https://huggingface.co/ChyRho)
 - **X (Twitter)**: [@_ChyRho_](https://x.com/_chyrho_)
+- **Instagram**: [@_chyrho_](https://www.instagram.com/_chyrho_/)
+- **Threads**: [@_chyrho_](https://www.threads.net/@_chyrho_)
 - **Zenodo Community**: [chyren-ai](https://zenodo.org/communities/chyren-ai)
