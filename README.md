@@ -4,7 +4,7 @@
   <a href="https://orcid.org/0009-0001-1303-7190"><img src="https://img.shields.io/badge/ORCID-0009--0001--1303--7190-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://huggingface.co/ChyRho"><img src="https://img.shields.io/badge/Hugging%20Face-ChyRho-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="https://resnova-hub-f4ucvy3e.manus.space"><img src="https://img.shields.io/badge/Research%20Atlas-resnova--hub-0070f3?style=flat-square&logo=safari&logoColor=white" alt="Res Nova Atlas"></a>
-  <a href="https://www.linkedin.com/in/r-w-yett-152085293/"><img src="https://img.shields.io/badge/LinkedIn-R.W._Yett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/r-w-yett/"><img src="https://img.shields.io/badge/LinkedIn-R.W._Yett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/_chyrho_"><img src="https://img.shields.io/badge/X-@__ChyRho__-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.instagram.com/_chyrho_/"><img src="https://img.shields.io/badge/Instagram-@__chyrho__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.threads.net/@_chyrho_"><img src="https://img.shields.io/badge/Threads-@__chyrho__-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
@@ -72,7 +72,7 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 
 - **ORCID**: [0009-0001-1303-7190](https://orcid.org/0009-0001-1303-7190)
 - **Research Atlas**: [resnova-hub-f4ucvy3e.manus.space](https://resnova-hub-f4ucvy3e.manus.space)
-- **LinkedIn**: [r-w-yett-152085293](https://www.linkedin.com/in/r-w-yett-152085293/)
+- **LinkedIn**: [R.W. Yett](https://www.linkedin.com/in/r-w-yett/)
 - **Hugging Face**: [ChyRho](https://huggingface.co/ChyRho)
 - **X (Twitter)**: [@_ChyRho_](https://x.com/_chyrho_)
 - **Instagram**: [@_chyrho_](https://www.instagram.com/_chyrho_/)
