@@ -89,4 +89,3 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 - **X (Twitter)**: [@_ChyRho_](https://x.com/_chyrho_)
 - **Instagram**: [@_chyrho_](https://www.instagram.com/_chyrho_/)
 - **Threads**: [@_chyrho_](https://www.threads.net/@_chyrho_)
-- **Zenodo Community**: [chyren-ai](https://zenodo.org/communities/chyren-ai)
