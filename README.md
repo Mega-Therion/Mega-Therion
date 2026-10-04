@@ -23,16 +23,16 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 - **Hugging Face Dataset**: [ChyRho/res-nova](https://huggingface.co/datasets/ChyRho/res-nova)
 - **Zenodo DOI**: [10.5281/zenodo.21969121](https://doi.org/10.5281/zenodo.21969121)
 - **Highlights**:
-  - Exact variational $\mu_{\text{std}}(x) = x/\sqrt{1+x^2}$ action closure clearing Cassini $Q_2$ quadrupole bounds and perihelion precession.
-  - Layer 0 finite core ($Q_8 \rtimes C_3$) frozen and interpretation obligations 1–6 discharged.
-  - Reproducible SPARC 175-galaxy benchmark ($3,391$ empirical points) verifying $a_0 = cH_0 / (2\pi)$ distance robustness.
-  - 100% formal verification across Lean 4 mathematical modules (0 `sorry` / bypasses).
+  - Exact variational action closure for $\mu_{\text{std}}(x) = x/\sqrt{1+x^2}$. Unscreened, it fails Cassini's external-field quadrupole; only a phenomenological screening passes, so solar-system screening is listed as open.
+  - Layer 0 finite core ($Q_8 \rtimes C_3$) frozen and interpretation obligations 1–6 discharged to their stated limits.
+  - Reproducible SPARC benchmark (171 galaxies, 3,375 points). $a_0$ is measured from the data; its closeness to $cH_0/(2\pi)$ is an observation, not a derivation (the $2\pi$ is declared, not proved).
+  - Lean 4 gate: 66/66 targets build with no `sorry` and standard axioms only (2026-10-03).
 
 #### 📐 [4Leibniz](https://github.com/Mega-Therion/4Leibniz)
 > **Formal Relational Information Geometry & Automated Verification in Lean 4**
 - **Live Deployment**: [four-leibniz.vercel.app](https://four-leibniz.vercel.app)
 - **Hugging Face Dataset**: [ChyRho/4leibniz](https://huggingface.co/datasets/ChyRho/4leibniz)
-- **Living Archive Web**: [4leibniz-web](https://github.com/Mega-Therion/4leibniz-web) · [leibniz-oracle](https://github.com/Mega-Therion/leibniz-oracle)
+- **Apps (in this repo)**: [web archive](https://github.com/Mega-Therion/4Leibniz/tree/main/apps/web) · [mobile oracle](https://github.com/Mega-Therion/4Leibniz/tree/main/apps/oracle)
 - **Highlights**:
   - Dedicated to Gottfried Wilhelm Leibniz's relational foundation of space, monadology, and universal calculus.
   - Machine-checked relational information geometry and spectral gap bounding in Lean 4.
@@ -53,6 +53,18 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 #### 🛡️ [MVPC-X](https://github.com/Mega-Therion/MVPC-X)
 > **Sovereign Claim-Verification Infrastructure**
 - Turns scientific and formal claims into auditable, fail-closed evidence chains.
+
+#### 🧭 [Nova Conscientia](https://github.com/Mega-Therion/Nova-Conscientia)
+> **Cybernetic Dual-Channel Oversight Architecture & Multi-Agent Swarm Laboratory**
+- An oversight loop that separates generation from verification for multi-agent AI systems; core modules implemented with a committed benchmark receipt.
+
+#### ⚖️ [Deductive Sycophancy Pilot](https://github.com/Mega-Therion/deductive-sycophancy-pilot)
+> **Does a model give in when an authority asserts a false theorem?**
+- 120 Lean 4 propositions (60 true, 60 false); every label is checked by the Lean kernel, not by a human rater or an LLM judge.
+
+#### 🌳 [Arkansas](https://github.com/Mega-Therion/Arkansas)
+> **The Arkansas Orchard: A Civic & Energy Infrastructure Blueprint**
+- Draft Arkansas bills (ARMAWS, driver's-test access, infant nutrition, Project RENEW), an Entergy docket plan, and the commercial plan behind them; statutory citations checked against primary sources.
 
 ---
 
