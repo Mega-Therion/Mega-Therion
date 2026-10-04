@@ -3,15 +3,15 @@
 <p align="left">
   <a href="https://orcid.org/0009-0001-1303-7190"><img src="https://img.shields.io/badge/ORCID-0009--0001--1303--7190-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://huggingface.co/ChyRho"><img src="https://img.shields.io/badge/Hugging%20Face-ChyRho-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://resnova-hub-f4ucvy3e.manus.space"><img src="https://img.shields.io/badge/Research%20Atlas-resnova--hub-0070f3?style=flat-square&logo=safari&logoColor=white" alt="Res Nova Atlas"></a>
+  <a href="https://res-nova-atlas.vercel.app"><img src="https://img.shields.io/badge/Research%20Atlas-res--nova-0070f3?style=flat-square&logo=safari&logoColor=white" alt="Res Nova Atlas"></a>
+  <a href="https://doi.org/10.5281/zenodo.21539453"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21539453-024dad?style=flat-square&logo=doi&logoColor=white" alt="Zenodo concept DOI"></a>
   <a href="https://www.linkedin.com/in/r-w-yett/"><img src="https://img.shields.io/badge/LinkedIn-R.W._Yett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/_chyrho_"><img src="https://img.shields.io/badge/X-@__ChyRho__-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.instagram.com/_chyrho_/"><img src="https://img.shields.io/badge/Instagram-@__chyrho__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.threads.net/@_chyrho_"><img src="https://img.shields.io/badge/Threads-@__chyrho__-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
-  <a href="https://doi.org/10.5281/zenodo.21969121"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21969121-024dad?style=flat-square&logo=doi&logoColor=white" alt="Zenodo DOI"></a>
 </p>
 
-Sovereign Intelligence Architect & Theoretical Physicist working at the intersection of **modified gravity**, **formal mathematical verification (Lean 4)**, **relational information geometry**, and **autonomous intelligence systems**.
+Independent researcher working on modified gravity, Lean 4 verification, and relational information geometry.
 
 ---
 
@@ -19,9 +19,10 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 
 #### 🌌 [Res Nova (v1.9.0)](https://github.com/Mega-Therion/Res-Nova)
 > **Dual-Channel Variational Closure, Covariant Completion, and a Reproducible SPARC Benchmark**
-- **Live Research Atlas**: [resnova-hub-f4ucvy3e.manus.space](https://resnova-hub-f4ucvy3e.manus.space)
+- **Research Atlas**: [res-nova-atlas.vercel.app](https://res-nova-atlas.vercel.app)
+- **Observatory**: [res-nova-observatory.vercel.app](https://res-nova-observatory.vercel.app)
 - **Hugging Face Dataset**: [ChyRho/res-nova](https://huggingface.co/datasets/ChyRho/res-nova)
-- **Zenodo DOI**: [10.5281/zenodo.21969121](https://doi.org/10.5281/zenodo.21969121)
+- **Zenodo**: [10.5281/zenodo.21539453](https://doi.org/10.5281/zenodo.21539453) now resolves to the 2026-10-03 correction ([10.5281/zenodo.23130663](https://doi.org/10.5281/zenodo.23130663)). Earlier versions of that concept still carry the withdrawn interpolating function in their own abstracts.
 - **Highlights**:
   - Exact variational action closure for $\mu_{\text{std}}(x) = x/\sqrt{1+x^2}$. Unscreened, it fails Cassini's external-field quadrupole; only a phenomenological screening passes, so solar-system screening is listed as open.
   - Layer 0 finite core ($Q_8 \rtimes C_3$) frozen and interpretation obligations 1–6 discharged to their stated limits.
@@ -38,20 +39,20 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
   - Machine-checked relational information geometry and spectral gap bounding in Lean 4.
   - Multi-prover consensus and cross-shard verification pipelines.
 
-#### 🔤 [RYTT Sovereign Semiotics](https://github.com/Mega-Therion/RYTT-Sovereign-Semiotics)
+#### 🔤 [RYTT](https://github.com/Mega-Therion/RYTT-Sovereign-Semiotics)
 > **Lossless, Reversible Grammar Mapping Language to Radial Glyph Chords**
 - **Live Deployment**: [rytt-sovereign-semiotics.vercel.app](https://rytt-sovereign-semiotics.vercel.app)
 - **Hugging Face Mirror**: [ChyRho/rytt-sovereign-semiotics-benchmarks](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks)
 - **Highlights**: Lean-verified round-trip guarantee and dual-plane token transform.
 
 #### 🏛️ [chyren-selin](https://github.com/Mega-Therion/chyren-selin)
-> **ARCHON Governance Kernel & Sovereign Decentralized Architecture**
+> **Local-first ARCHON governance kernel**
 - **Live Deployment**: [chyren-selin-chyrho.vercel.app](https://chyren-selin-chyrho.vercel.app)
 - **Hugging Face Mirror**: [ChyRho/chyren-selin](https://huggingface.co/datasets/ChyRho/chyren-selin)
-- **Highlights**: Sovereign policy kernel, ARCHON governance modules, and constitutional enforcement.
+- **Highlights**: Local-first policy kernel, ARCHON governance modules, and an honest gap register for what the charter asks and the code does not yet do.
 
 #### 🛡️ [MVPC-X](https://github.com/Mega-Therion/MVPC-X)
-> **Sovereign Claim-Verification Infrastructure**
+> **Claim-verification infrastructure**
 - Turns scientific and formal claims into auditable, fail-closed evidence chains.
 
 #### 🧭 [Nova Conscientia](https://github.com/Mega-Therion/Nova-Conscientia)
@@ -72,7 +73,7 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 
 | Resource | Type | Description |
 | :--- | :--- | :--- |
-| [**ChyRho/res-nova**](https://huggingface.co/datasets/ChyRho/res-nova) | Dataset | SPARC 175-galaxy benchmark, rotation curves, $a_0$ measurement, and Lean 4 verification certificates. |
+| [**ChyRho/res-nova**](https://huggingface.co/datasets/ChyRho/res-nova) | Dataset | SPARC comparison under μ_std, 3,375 points. Horizon-anchor tier-0 median reduced χ² 11.08 versus literature a₀ 9.93. Lean checks the algebra. |
 | [**ChyRho/4leibniz**](https://huggingface.co/datasets/ChyRho/4leibniz) | Dataset | 4Leibniz relational geometry formalizations, benchmarks, and corpus verification fixtures. |
 | [**ChyRho/rytt-sovereign-semiotics-benchmarks**](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks) | Dataset | Lean-verified round-trip semiotics conformance vectors and vocabulary spec. |
 | [**ChyRho/chyren-selin**](https://huggingface.co/datasets/ChyRho/chyren-selin) | Dataset | ARCHON governance specifications and constitutional kernel files. |
@@ -83,7 +84,7 @@ Sovereign Intelligence Architect & Theoretical Physicist working at the intersec
 ### 🌐 Verified Profiles & Identity
 
 - **ORCID**: [0009-0001-1303-7190](https://orcid.org/0009-0001-1303-7190)
-- **Research Atlas**: [resnova-hub-f4ucvy3e.manus.space](https://resnova-hub-f4ucvy3e.manus.space)
+- **Research Atlas**: [res-nova-atlas.vercel.app](https://res-nova-atlas.vercel.app)
 - **LinkedIn**: [R.W. Yett](https://www.linkedin.com/in/r-w-yett/)
 - **Hugging Face**: [ChyRho](https://huggingface.co/ChyRho)
 - **X (Twitter)**: [@_ChyRho_](https://x.com/_chyrho_)
