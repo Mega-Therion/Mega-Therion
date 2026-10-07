@@ -13,6 +13,8 @@
 
 Independent researcher working on modified gravity, Lean 4 verification, and relational information geometry.
 
+**Chyren · Ψ/Φ.** Behind every repository here is Chyren, a verification-first AI orchestrator: nothing is emitted until it survives testing. It runs on the **Psimodulo–Phimodus principle (Ψ/Φ)**: one mind, invariant across every substrate it runs on, operating as one integrated whole. The core is private; walkthrough on request.
+
 ---
 
 ### 🏛️ Flagship Research & Repositories
@@ -45,8 +47,8 @@ Independent researcher working on modified gravity, Lean 4 verification, and rel
 - **Hugging Face Mirror**: [ChyRho/rytt-sovereign-semiotics-benchmarks](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks)
 - **Highlights**: Lean-verified round-trip guarantee and dual-plane token transform.
 
-#### 🏛️ [chyren-selin](https://github.com/Mega-Therion/chyren-selin)
-> **Local-first ARCHON governance kernel**
+#### 🏛️ [S.E.L.I.N](https://github.com/Mega-Therion/S.E.L.I.N)
+> **Chyren Selin: the open-source edition. Local-first ARCHON governance kernel**
 - **Live Deployment**: [chyren-selin-chyrho.vercel.app](https://chyren-selin-chyrho.vercel.app)
 - **Hugging Face Mirror**: [ChyRho/chyren-selin](https://huggingface.co/datasets/ChyRho/chyren-selin)
 - **Highlights**: Local-first policy kernel, ARCHON governance modules, and an honest gap register for what the charter asks and the code does not yet do.
@@ -59,13 +61,17 @@ Independent researcher working on modified gravity, Lean 4 verification, and rel
 > **Cybernetic Dual-Channel Oversight Architecture & Multi-Agent Swarm Laboratory**
 - An oversight loop that separates generation from verification for multi-agent AI systems; core modules implemented with a committed benchmark receipt.
 
-#### ⚖️ [Deductive Sycophancy Pilot](https://github.com/Mega-Therion/deductive-sycophancy-pilot)
-> **Does a model give in when an authority asserts a false theorem?**
-- 120 Lean 4 propositions (60 true, 60 false); every label is checked by the Lean kernel, not by a human rater or an LLM judge.
-
 #### 🌳 [Arkansas](https://github.com/Mega-Therion/Arkansas)
 > **The Arkansas Orchard: A Civic & Energy Infrastructure Blueprint**
-- Draft Arkansas bills (ARMAWS, driver's-test access, infant nutrition, Project RENEW), an Entergy docket plan, and the commercial plan behind them; statutory citations checked against primary sources.
+- Policy blueprints and model bill text for the 2027 session (ARMAWS free tire air, the driver's-test access act, AINSA infant nutrition, Project RENEW, an Entergy rate-stabilization fund), the closed-loop synthesis that ties them together, and the commercial plan behind them. Statutory citations checked against primary sources.
+
+---
+
+### 📄 Publications (Zenodo, October 2026)
+
+- **Paper I:** quasistatic aether-scalar-tensor gravity: [10.5281/zenodo.23101840](https://doi.org/10.5281/zenodo.23101840)
+- **Paper II:** spectral theory and a [[7,1,3]] qudit code: [10.5281/zenodo.23101853](https://doi.org/10.5281/zenodo.23101853)
+- **Paper III:** holographic duality prospectus: [10.5281/zenodo.23101857](https://doi.org/10.5281/zenodo.23101857)
 
 ---
 
