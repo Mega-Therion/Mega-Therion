@@ -67,6 +67,17 @@ Independent researcher working on modified gravity, Lean 4 verification, and rel
 
 ---
 
+
+### Also in this account
+
+These are not flagship papers. They were missing from this page on 2026-10-07.
+
+- [The-Hood](https://github.com/Mega-Therion/The-Hood) — private append-only artifact store. Default branch `master`.
+- [Second-Brain](https://github.com/Mega-Therion/Second-Brain) — private vault. Default branch `master`.
+- [chyren-heartbeat](https://github.com/Mega-Therion/chyren-heartbeat) — private workstation heartbeat since 2026-10-25.
+- [chyren-transcript-vault](https://github.com/Mega-Therion/chyren-transcript-vault) — private transcripts, still stored in git.
+- [Aeon](https://github.com/Mega-Therion/Aeon) — private engine. [Chyren](https://github.com/Mega-Therion/Chyren) — private index.
+
 ### 📄 Publications (Zenodo, October 2026)
 
 - **Paper I:** quasistatic aether-scalar-tensor gravity: [10.5281/zenodo.23101840](https://doi.org/10.5281/zenodo.23101840)
