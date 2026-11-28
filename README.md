@@ -1,109 +1,28 @@
-# R.W. Yett (Mega-Therion · ChyRho)
+# Ryan W. Yett (`Mega-Therion`)
 
-<p align="left">
-  <a href="https://orcid.org/0009-0001-1303-7190"><img src="https://img.shields.io/badge/ORCID-0009--0001--1303--7190-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://huggingface.co/ChyRho"><img src="https://img.shields.io/badge/Hugging%20Face-ChyRho-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://res-nova-atlas.vercel.app"><img src="https://img.shields.io/badge/Research%20Atlas-res--nova-0070f3?style=flat-square&logo=safari&logoColor=white" alt="Res Nova Atlas"></a>
-  <a href="https://doi.org/10.5281/zenodo.21539453"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21539453-024dad?style=flat-square&logo=doi&logoColor=white" alt="Zenodo concept DOI"></a>
-  <a href="https://www.linkedin.com/in/r-w-yett/"><img src="https://img.shields.io/badge/LinkedIn-R.W._Yett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/_chyrho_"><img src="https://img.shields.io/badge/X-@__ChyRho__-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.instagram.com/_chyrho_/"><img src="https://img.shields.io/badge/Instagram-@__chyrho__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.threads.net/@_chyrho_"><img src="https://img.shields.io/badge/Threads-@__chyrho__-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
-</p>
+**Independent Researcher & Systems Architect** | **ORCID:** [0009-0001-1303-7190](https://orcid.org/0009-0001-1303-7190) | **Zenodo:** [Chyren Community](https://zenodo.org/communities/chyren) | **Hugging Face:** [ChyRho](https://huggingface.co/ChyRho)
 
-Independent researcher working on modified gravity, Lean 4 verification, and relational information geometry.
-
-**Chyren · Ψ/Φ.** Behind every repository here is Chyren, a verification-first AI orchestrator: nothing is emitted until it survives testing. It runs on the **Psimodulo–Phimodus principle (Ψ/Φ)**: one mind, invariant across every substrate it runs on, operating as one integrated whole. The core is private; walkthrough on request.
+All claims across this index use strict epistemic fencing:
+`[P]` Proved (machine-checked / Lean 4) · `[D]` Derived · `[E]` Empirical · `[O]` Open · `[X]` Falsified.
 
 ---
 
-### 🏛️ Flagship Research & Repositories
+## Research & Engineering Tracks
 
-#### 🌌 [Res Nova (v1.9.0)](https://github.com/Mega-Therion/Res-Nova)
-> **Dual-Channel Variational Closure, Covariant Completion, and a Reproducible SPARC Benchmark**
-- **Research Atlas**: [res-nova-atlas.vercel.app](https://res-nova-atlas.vercel.app)
-- **Observatory**: [res-nova-observatory.vercel.app](https://res-nova-observatory.vercel.app)
-- **Hugging Face Dataset**: [ChyRho/res-nova](https://huggingface.co/datasets/ChyRho/res-nova)
-- **Zenodo**: [10.5281/zenodo.21539453](https://doi.org/10.5281/zenodo.21539453) now resolves to the 2026-10-03 correction ([10.5281/zenodo.23130663](https://doi.org/10.5281/zenodo.23130663)). Earlier versions of that concept still carry the withdrawn interpolating function in their own abstracts.
-- **Highlights**:
-  - Exact variational action closure for $\mu_{\text{std}}(x) = x/\sqrt{1+x^2}$. Unscreened, it fails Cassini's external-field quadrupole; only a phenomenological screening passes, so solar-system screening is listed as open.
-  - Layer 0 finite core ($Q_8 \rtimes C_3$) frozen and interpretation obligations 1–6 discharged to their stated limits.
-  - Reproducible SPARC benchmark (171 galaxies, 3,375 points). $a_0$ is measured from the data; its closeness to $cH_0/(2\pi)$ is an observation, not a derivation (the $2\pi$ is declared, not proved).
-  - Lean 4 gate: 66/66 targets build with no `sorry` and standard axioms only (2026-10-03).
-
-#### 📐 [4Leibniz](https://github.com/Mega-Therion/4Leibniz)
-> **Formal Relational Information Geometry & Automated Verification in Lean 4**
-- **Live Deployment**: [four-leibniz.vercel.app](https://four-leibniz.vercel.app)
-- **Hugging Face Dataset**: [ChyRho/4leibniz](https://huggingface.co/datasets/ChyRho/4leibniz)
-- **Apps (in this repo)**: [web archive](https://github.com/Mega-Therion/4Leibniz/tree/main/apps/web) · [mobile oracle](https://github.com/Mega-Therion/4Leibniz/tree/main/apps/oracle)
-- **Highlights**:
-  - Dedicated to Gottfried Wilhelm Leibniz's relational foundation of space, monadology, and universal calculus.
-  - Machine-checked relational information geometry and spectral gap bounding in Lean 4.
-  - Multi-prover consensus and cross-shard verification pipelines.
-
-#### 🔤 [RYTT](https://github.com/Mega-Therion/RYTT-Sovereign-Semiotics)
-> **Lossless, Reversible Grammar Mapping Language to Radial Glyph Chords**
-- **Live Deployment**: [rytt-sovereign-semiotics.vercel.app](https://rytt-sovereign-semiotics.vercel.app)
-- **Hugging Face Mirror**: [ChyRho/rytt-sovereign-semiotics-benchmarks](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks)
-- **Highlights**: Lean-verified round-trip guarantee and dual-plane token transform.
-
-#### 🏛️ [S.E.L.I.N](https://github.com/Mega-Therion/S.E.L.I.N)
-> **Chyren Selin: the open-source edition. Local-first ARCHON governance kernel**
-- **Live Deployment**: [chyren-selin-chyrho.vercel.app](https://chyren-selin-chyrho.vercel.app)
-- **Hugging Face Mirror**: [ChyRho/chyren-selin](https://huggingface.co/datasets/ChyRho/chyren-selin)
-- **Highlights**: Local-first policy kernel, ARCHON governance modules, and an honest gap register for what the charter asks and the code does not yet do.
-
-#### 🛡️ [MVPC-X](https://github.com/Mega-Therion/MVPC-X)
-> **Claim-verification infrastructure**
-- Turns scientific and formal claims into auditable, fail-closed evidence chains.
-
-#### 🧭 [Nova Conscientia](https://github.com/Mega-Therion/Nova-Conscientia)
-> **Cybernetic Dual-Channel Oversight Architecture & Multi-Agent Swarm Laboratory**
-- An oversight loop that separates generation from verification for multi-agent AI systems; core modules implemented with a committed benchmark receipt.
-
-#### 🌳 [Arkansas](https://github.com/Mega-Therion/Arkansas)
-> **The Arkansas Orchard: A Civic & Energy Infrastructure Blueprint**
-- Policy blueprints and model bill text for the 2027 session (ARMAWS free tire air, the driver's-test access act, AINSA infant nutrition, Project RENEW, an Entergy rate-stabilization fund), the closed-loop synthesis that ties them together, and the commercial plan behind them. Statutory citations checked against primary sources.
+| Track | Domain | Primary Repositories & Artifacts |
+|---|---|---|
+| **I. Theoretical Physics & Cosmology** | `gr-qc`, `astro-ph.GA`, `math-ph` | [`Res-Nova`](https://github.com/Mega-Therion/Res-Nova) (two irreducible parameters; MOND leads SPARC tier 0, tier 1 tied; D7/wide-binary `[O]`), [`Auroboryai`](https://github.com/Mega-Therion/Auroboryai) |
+| **II. Pure Mathematics & Formal Verification** | `math.NT`, `cs.LO` | [`4Leibniz`](https://github.com/Mega-Therion/4Leibniz), [`MVPC-X`](https://github.com/Mega-Therion/MVPC-X) |
+| **III. Biophysics & Fluid Regularity** | `q-bio.NC`, `math.AP` | *Neuro-Topological Stability: Biological Regularity as a Solution to Navier-Stokes Drift* (Zenodo / OpenAIRE) |
+| **IV. AI Systems Engineering & Governance** | `cs.AI`, `cs.SE`, `cs.CY` | [`S.E.L.I.N`](https://github.com/Mega-Therion/S.E.L.I.N) (ARCHON), [`Nova-Conscientia`](https://github.com/Mega-Therion/Nova-Conscientia), [`chyren-embed-worker`](https://github.com/Mega-Therion/chyren-embed-worker) |
+| **V. Semiotics, Cryptography & Signal Encoding** | `cs.IT`, `cs.CR` | [`RYTT-Sovereign-Semiotics`](https://github.com/Mega-Therion/RYTT-Sovereign-Semiotics) |
+| **VI. Philosophy, Epistemology & Metaphysics** | `phil.EP`, `phil.MP` | Epistemic fencing methodology & active philosophical treatise (archival notice on superseded drafts) |
+| **VII. Civic Infrastructure & Public Policy** | `econ.GN`, `public-policy` | [`Arkansas`](https://github.com/Mega-Therion/Arkansas) (The Arkansas Orchard — Ryan W. Yett, ORCID `0009-0001-1303-7190`) |
+| **VIII. Applied Instrumentation & Simulation** | `astro-ph.IM`, `cs.GR` | [`drain-the-ouachita-public`](https://github.com/Mega-Therion/drain-the-ouachita-public) |
 
 ---
 
+## Cross-Domain Synthesis
 
-### Also in this account
-
-These are not flagship papers. They were missing from this page on 2026-10-07.
-
-- [The-Hood](https://github.com/Mega-Therion/The-Hood) — private append-only artifact store. Default branch `master`.
-- [Second-Brain](https://github.com/Mega-Therion/Second-Brain) — private vault. Default branch `master`.
-- [chyren-heartbeat](https://github.com/Mega-Therion/chyren-heartbeat) — private workstation heartbeat since 2026-10-25.
-- [chyren-transcript-vault](https://github.com/Mega-Therion/chyren-transcript-vault) — private transcripts, still stored in git.
-- [Aeon](https://github.com/Mega-Therion/Aeon) — private engine. [Chyren](https://github.com/Mega-Therion/Chyren) — private index.
-
-### 📄 Publications (Zenodo, October 2026)
-
-- **Paper I:** quasistatic aether-scalar-tensor gravity: [10.5281/zenodo.23101840](https://doi.org/10.5281/zenodo.23101840)
-- **Paper II:** spectral theory and a [[7,1,3]] qudit code: [10.5281/zenodo.23101853](https://doi.org/10.5281/zenodo.23101853)
-- **Paper III:** holographic duality prospectus: [10.5281/zenodo.23101857](https://doi.org/10.5281/zenodo.23101857)
-
----
-
-### 🤗 Hugging Face Hub ([@ChyRho](https://huggingface.co/ChyRho))
-
-| Resource | Type | Description |
-| :--- | :--- | :--- |
-| [**ChyRho/res-nova**](https://huggingface.co/datasets/ChyRho/res-nova) | Dataset | SPARC comparison under μ_std, 3,375 points. Horizon-anchor tier-0 median reduced χ² 11.08 versus literature a₀ 9.93. Lean checks the algebra. |
-| [**ChyRho/4leibniz**](https://huggingface.co/datasets/ChyRho/4leibniz) | Dataset | 4Leibniz relational geometry formalizations, benchmarks, and corpus verification fixtures. |
-| [**ChyRho/rytt-sovereign-semiotics-benchmarks**](https://huggingface.co/datasets/ChyRho/rytt-sovereign-semiotics-benchmarks) | Dataset | Lean-verified round-trip semiotics conformance vectors and vocabulary spec. |
-| [**ChyRho/chyren-selin**](https://huggingface.co/datasets/ChyRho/chyren-selin) | Dataset | ARCHON governance specifications and constitutional kernel files. |
-| [**ChyRho/nomic-embed-text-v1.5-q8-gguf**](https://huggingface.co/ChyRho/nomic-embed-text-v1.5-q8-gguf) | Model | High-precision quantized embedding model for semantic retrieval. |
-
----
-
-### 🌐 Verified Profiles & Identity
-
-- **ORCID**: [0009-0001-1303-7190](https://orcid.org/0009-0001-1303-7190)
-- **Research Atlas**: [res-nova-atlas.vercel.app](https://res-nova-atlas.vercel.app)
-- **LinkedIn**: [R.W. Yett](https://www.linkedin.com/in/r-w-yett/)
-- **Hugging Face**: [ChyRho](https://huggingface.co/ChyRho)
-- **X (Twitter)**: [@_ChyRho_](https://x.com/_chyrho_)
-- **Instagram**: [@_chyrho_](https://www.instagram.com/_chyrho_/)
-- **Threads**: [@_chyrho_](https://www.threads.net/@_chyrho_)
+For readers specifically interested in how these independent tracks share formal verification, information-geometric, or epistemic-fencing primitives, see the standalone bridge document:
+- [`CROSS_DOMAIN_ARCHITECTURE.md`](./CROSS_DOMAIN_ARCHITECTURE.md)
